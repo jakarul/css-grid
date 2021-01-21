@@ -1,0 +1,24 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	display: flex;
+	align-items: center;
+	/*height: 80px;
+	width: 100%;*/
+}
+.main-nav{
+	display: flex;
+    list-style: none;
+    margin: 0;
+    font-size: 0.7em;
+}
+.ul-items li{
+
+	list-style: none;
+}
+.ul-items li a{
+	margin: 0px 20px;
+	text-decoration: none;
+}
